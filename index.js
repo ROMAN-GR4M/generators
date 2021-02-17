@@ -25,4 +25,4 @@ client.on('message', async message => {
   }, 2000);
 });
 
-client.login(token);
+client.login(process.env.TOKEN_BOT);
