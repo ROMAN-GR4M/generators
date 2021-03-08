@@ -1,6 +1,6 @@
 {
-    "token": "sc",
-    "prefix": "ggg",
+    "token": "xxx",
+    "prefix": "/",
     "everyoneMention": true,
     "hostedBy": true
 }
