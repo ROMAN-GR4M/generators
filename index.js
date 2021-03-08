@@ -300,5 +300,5 @@ if (message.content === (`${prefix}psc`)) {
   
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.TOKEN_BOT);
 
